@@ -10,7 +10,6 @@
 
 ### 🤝 合作机会
 - 非常欢迎合作！如果你对我的项目或创意感兴趣，随时与我联系！
-- 📧 [通过电子邮件联系我](mailto:one@mail.hizuki.fun)
 - 📧 [one@mail.hizuki.fun](mailto:one@mail.hizuki.fun)
 
 ### ⚡ 闲暇时光
