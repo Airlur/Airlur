@@ -5,7 +5,6 @@
 ***"Not just into Computer Science, but also a Counter-Strike enthusiast!"*** 😎
 
 ### 🌱 进行中的项目
-- **CloudPic-云图**：一个主要支持S3协议的对象存储管理相册，希望早日完工。
 - **个人博客**：正在使用hexo搭建个人博客，目前正在精装修中，同样希望早日完工，欢迎各位来访。
 
 ### 🤝 合作机会
